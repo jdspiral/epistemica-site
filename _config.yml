@@ -1,9 +1,3 @@
-# title: Epistemica
-# description: "Simulate belief systems. Not just what agents believe — but why."
-# author:
-#   name: Joshua Hathcock
-# url: "https://jdspiral.github.io/epistemica-theme"
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -26,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url: "https://jdspiral.github.io"
 baseurl: "/epistemica-theme"
-title   : Your Site Title
+title: Epistemica
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  "Simulate belief systems. Not just what agents believe — but why."
 
 
 ## => Language and Timezone
@@ -41,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : Josh Hathcock
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
@@ -61,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: jdspiral/epistemica-theme
 repository_tree: master
 
 
