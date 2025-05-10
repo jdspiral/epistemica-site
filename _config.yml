@@ -115,7 +115,11 @@ sharing:
   addthis:
     id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
 
-
+## => Footer
+##############################
+footer_content: >
+  Built with ❤️ by Josh Hathcock · [GitHub](https://github.com/jdspiral)
+  
 ## => Comments
 ##############################
 comments:
