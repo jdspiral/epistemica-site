@@ -1,0 +1,49 @@
+sections:
+  - title: "🧠 Simulate Belief Systems"
+    excerpt: "Epistemica lets you see not just what agents believe — but why. Each response is shaped by frameworks, traits, and interpretive schemas."
+    theme: dark
+    background_color: "#0d1117"
+    align: center
+    actions:
+      - text: "Try the Demo"
+        url: "https://your-demo-url.com"
+        type: "primary"
+      - text: "GitHub"
+        url: "https://github.com/jdspiral/epistemica-site"
+        type: "outline-light"
+
+  - title: "🧩 Built on Layered Reasoning"
+    excerpt: "Each belief is formed from a structured blend of rationalism, emotion, schema, and historical drift. Epistemica simulates this as JSON-based cognition."
+    theme: light
+    children:
+      - title: "Frameworks"
+        excerpt: "Rationalism, Empiricism, Tradition — foundational worldviews structure what counts as truth."
+        image:
+          src: "/assets/img/frameworks.png"
+          style: "max-width: 260px;"
+      - title: "Schemas"
+        excerpt: "Interpretive filters like 'Anti-Elite' or 'Institutionalist' shape narrative expectations."
+        image:
+          src: "/assets/img/schemas.png"
+          style: "max-width: 260px;"
+      - title: "Meta-Traits"
+        excerpt: "Logic, Emotion, Skepticism, Hope — modeled numerically to capture epistemic style."
+        image:
+          src: "/assets/img/traits.png"
+          style: "max-width: 260px;"
+
+  - title: "🔁 Track Drift Over Time"
+    excerpt: "Visualize how belief systems change under social shocks, information decay, or evolving trust."
+    theme: dark
+    background_color: "#0d1117"
+    children:
+      - title: "Semantic Drift"
+        excerpt: "UMAP + cosine similarity map belief changes over time."
+        image:
+          src: "/assets/img/drift.png"
+          style: "max-width: 280px;"
+      - title: "Threshold Effects"
+        excerpt: "Schema fatigue, identity fusion, or hope collapse — encoded in your agents."
+        image:
+          src: "/assets/img/thresholds.png"
+          style: "max-width: 280px;"
