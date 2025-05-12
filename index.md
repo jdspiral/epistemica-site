@@ -5,6 +5,8 @@ layout: page
 
 ![Alt text]({{ '/assets/images/epistemica-hero.jpg' | relative_url }}){: width="900" }
 
+[Try the Belief Simulation Demo →](https://epistemica.streamlit.app/){:target="_blank"}<br>
+
 **Making belief formation transparent, measurable, and understandable**
 
 > *"We are terrible at criticizing our own belief structures because we don't reason to find truth — we reason to defend what we already emotionally believe."*  
@@ -12,7 +14,7 @@ layout: page
 
 ---
 <br>
-### We live in a time of **epistemic anxiety**
+### We live in a time of [**epistemic anxiety**](https://link.springer.com/article/10.1007/s11229-022-03788-7#Sec4)
 
 No one agrees on what's true, why it's true, or who to trust.
 
@@ -65,7 +67,7 @@ graph TD
 <br><br>
 > Think of it as **Perplexity for reasoning**—but instead of just showing sources, we show how beliefs are formed.
 
-[👉 Try the Belief Simulation Demo →](https://epistemica.streamlit.app/)<br><br>
+[👉 Try the Belief Simulation Demo →](https://epistemica.streamlit.app/){:target="_blank"}<br><br>
 
 ---
 <br>
@@ -83,7 +85,7 @@ graph TD
 We don’t just want to simulate intelligence.  
 We want to **make belief itself interpretable**.
 
-[🔍 Explore Our Belief Simulation Engine](/app)<br><br>
+[🔍 Explore Our Belief Simulation Engine](https://epistemica.streamlit.app/){:target="_blank"}<br><br>
 
 ---
 <br>

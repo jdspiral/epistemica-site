@@ -1633,4 +1633,6 @@ li { margin-bottom: 0.5rem; /* optional: vertical spacing */ }
 
 p { font-size: 18px; }
 
+a:link { text-decoration: underline; }
+
 /* end custom scss snippet */
