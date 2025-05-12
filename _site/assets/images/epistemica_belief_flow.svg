@@ -1,0 +1,32 @@
+digraph {
+	A [label="Incoming Information"]
+	B [label="Information Embedding"]
+	A -> B
+	subgraph cluster_belief_engine {
+		label="Belief Engine" style=dashed
+		C1 [label="Trait Embedding
+(e.g. skepticism, emotion)"]
+		C2 [label="Schema Embedding
+(interpretive lens)"]
+		C3 [label="Framework Embedding
+(epistemic rules)"]
+		C4 [label="Ontological Embedding
+(concept structure)"]
+		B -> C1
+		B -> C2
+		B -> C3
+		B -> C4
+	}
+	D [label="Vector Composition"]
+	C1 -> D
+	C2 -> D
+	C3 -> D
+	C4 -> D
+	E [label="Belief Embedding Output"]
+	D -> E
+	F [label="Reasoning Trace + Justification"]
+	E -> F
+	G [label="Visual Output
+(e.g. drift graph, belief comparison)"]
+	F -> G
+}
