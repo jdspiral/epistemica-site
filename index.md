@@ -31,7 +31,7 @@ Structured belief agents that interpret the world through **transparent, testabl
 Not just *“What would a Rationalist say?”*—but *why* they'd say it,  
 how they weight sources, and what values shape their conclusions.
 
-![Alt text]({{ '/assets/images/sources.png' | relative_url }}){: width="450" }
+![Alt text]({{ '/assets/images/sources.png' | relative_url }}){: width="500" }
 
 We use **neural embeddings** to model how belief systems form and evolve,  
 allowing us to measure conceptual distance and predict belief trajectories in ways never before possible.
