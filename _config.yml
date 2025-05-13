@@ -20,7 +20,7 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url: "https://jdspiral.github.io"
 remote_theme: kitian616/jekyll-TeXt-theme
-baseurl: "/epistemica-theme"
+baseurl: ""
 title: Epistemica
 description: > # this means to ignore newlines until "Language & timezone"
   "Simulate belief systems. Not just what agents believe — but why."
