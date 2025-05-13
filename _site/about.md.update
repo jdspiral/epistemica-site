@@ -5,12 +5,12 @@
 
 <meta name="description" content=""Simulate belief systems. Not just what agents believe — but why."
 ">
-<link rel="canonical" href="http://localhost:4000/epistemica-theme/about.md.update"><link rel="alternate" type="application/rss+xml" title="Epistemica" href="/epistemica-theme/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/epistemica-theme/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/epistemica-theme/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/epistemica-theme/assets/favicon-16x16.png"><link rel="manifest" href="/epistemica-theme/assets/site.webmanifest"><link rel="mask-icon" href="/epistemica-theme/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/epistemica-theme/assets/favicon.ico">
+<link rel="canonical" href="http://localhost:4000/about.md.update"><link rel="alternate" type="application/rss+xml" title="Epistemica" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
 
-<meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/epistemica-theme/assets/browserconfig.xml">
+<meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
 
 <meta name="theme-color" content="#ffffff">
-<!-- end favicons snippet --><link rel="stylesheet" href="/epistemica-theme/assets/css/main.css"><link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.css" ><!-- start custom head snippets -->
+<!-- end favicons snippet --><link rel="stylesheet" href="/assets/css/main.css"><link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.css" ><!-- start custom head snippets -->
 <script type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
@@ -249,7 +249,7 @@
         }
       },
       paths: {
-        search_js: '/epistemica-theme/assets/search.js'
+        search_js: '/assets/search.js'
       }
     };
     window.TEXT_VARIABLES = TEXT_VARIABLES;
@@ -269,8 +269,8 @@
 <path d="M17,4.8C17,4.8,17,4.8,17,4.8c0.5,0.4,1.1,0.7,1.8,0.7c1.5,0,2.7-1.2,2.7-2.7s-1.2-2.7-2.7-2.7s-2.7,1.2-2.7,2.7   c0,0.4,0.1,0.8,0.3,1.2c0,0,0,0,0,0l-9.3,6.6c-0.5-0.5-1.2-0.8-1.9-0.8c-1.5,0-2.7,1.2-2.7,2.7s1.2,2.7,2.7,2.7   c0.8,0,1.5-0.3,1.9-0.9c0,0,0.1,0.1,0.1,0.1l9,6.4c0,0.1,0,0.3,0,0.4c0,1.5,1.2,2.7,2.7,2.7s2.7-1.2,2.7-2.7s-1.2-2.7-2.7-2.7   c-1,0-1.8,0.5-2.3,1.3l-8.7-6.2c-0.1,0-0.1-0.1-0.2-0.1c0.1-0.3,0.2-0.7,0.2-1c0-0.4-0.1-0.7-0.2-1c0,0,0,0,0,0L17,4.8z M18.8,1.2   c0.9,0,1.7,0.7,1.7,1.7s-0.7,1.7-1.7,1.7s-1.7-0.7-1.7-1.7S17.9,1.2,18.8,1.2z M18.8,19.5c0.9,0,1.7,0.7,1.7,1.7s-0.7,1.7-1.7,1.7   s-1.7-0.7-1.7-1.7S17.9,19.5,18.8,19.5z M5.2,14.1c-0.9,0-1.7-0.7-1.7-1.7s0.7-1.7,1.7-1.7s1.7,0.7,1.7,1.7S6.1,14.1,5.2,14.1z" fill="#FFFFFF"/>
 </g>
 </svg><a title=""Simulate belief systems. Not just what agents believe — but why."
-" href="/epistemica-theme/">Epistemica</a></div><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></div><nav class="navigation">
-        <ul><li class="navigation__item"><a href="/epistemica-theme/about.html">About</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
+" href="/">Epistemica</a></div><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></div><nav class="navigation">
+        <ul><li class="navigation__item"><a href="/about.html">About</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
       </nav></div>
   </header>
 </div><div class="page__content"><div class ="main"><div class="grid grid--reverse">
@@ -375,7 +375,7 @@ TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highl
     </div>
 
     <div class="site-info mt-2"><p>
-        © Epistemica 2025 —
+        © Epistemica 202 —
         Built with ❤️ by <a href="https://github.com/jdspiral" target="_blank">Josh Hathcock</a> ·
       </p>
     </div>
