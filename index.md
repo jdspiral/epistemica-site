@@ -14,7 +14,7 @@ layout: page
 
 ---
 <br>
-### We live in a time of [**epistemic anxiety**](https://link.springer.com/article/10.1007/s11229-022-03788-7#Sec4)
+### We live in a time of [**epistemic anxiety**](https://link.springer.com/article/10.1007/s11229-022-03788-7#Sec4){:target="_blank"}
 
 No one agrees on what's true, why it's true, or who to trust.
 
