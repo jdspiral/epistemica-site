@@ -14,6 +14,7 @@ Truth is no longer shared ground. People interpret the same information in radic
 ## Our Mission
 
 We don’t just want to predict reactions.  
+
 We want to **rebuild visibility into belief** — to show not just what people think, but _why_ they think it.  
 Our goal is to offer a transparent foundation for constructive disagreement, narrative analysis, and institutional alignment.<br><br>
 
