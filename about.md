@@ -5,7 +5,7 @@ layout: page
 
 We built Epistemica because we’re living through an epistemic crisis.
 
-Truth is no longer shared ground. People interpret the same information in radically different ways — and those divergences are accelerating. Policy teams, communicators, and institutions are flying blind, trying to reach audiences that live in separate interpretive worlds.
+Truth is no longer shared ground. People interpret the same information in radically different ways, and those divergences are accelerating. Policy teams, communicators, and institutions are flying blind, trying to reach audiences that live in separate interpretive worlds.
 
 **Epistemica is a belief simulation platform** that models how different communities interpret the same information, and how those interpretations evolve over time. We use a combination of structured reasoning, epistemic trait modeling, and vector embeddings to make belief formation visible and measurable.<br><br>
 
@@ -34,7 +34,7 @@ Our goal is to offer a transparent foundation for constructive disagreement, nar
 Epistemica was founded by **Joshua Hathcock**, a software engineer, writer, and public philosopher. His work sits at the intersection of epistemology, culture, and technology.
 
 > "I’ve always felt a gap between how events are presented and what’s actually true.  
-> Philosophy helped me see the assumptions beneath the surface — but it was only when I started building with AI that I realized I could make those assumptions visible, modelable, and open to scrutiny."
+> Philosophy helped me see the assumptions beneath the surface, but it was only when I started building with AI that I realized I could make those assumptions visible, modelable, and open to scrutiny."
 
 Josh also writes [**The Performance Age**](https://theperformanceage.com/), a public philosophy project exploring how algorithmic logic and media incentives are reshaping how we think, argue, and perform.<br><br>
 
