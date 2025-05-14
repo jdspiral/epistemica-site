@@ -1,130 +1,130 @@
 ---
 layout: page
-# title: Epistemica
+title: Epistemica
 ---
 
-![Alt text]({{ '/assets/images/epistemica-hero.jpg' | relative_url }}){: width="900" }
+![Epistemica Hero]({{ '/assets/images/epistemica-hero.jpg' | relative_url }}){: width="900" }
 
-[Try the Belief Simulation Demo →](https://epistemica.streamlit.app/){:target="_blank"}<br>
+[Try the Belief Simulation Demo →](https://epistemica.streamlit.app/){:target="_blank"}
 
-**Making belief formation transparent, measurable, and understandable**
+**Interpretive Analytics for a Divided World**  
+Making belief formation transparent, measurable, and actionable.<br><br>
 
-> *"We are terrible at criticizing our own belief structures because we don't reason to find truth — we reason to defend what we already emotionally believe."*  
+---
+<br>
+> *"We are terrible at criticizing our own belief structures because we don’t reason to find truth — we reason to defend what we already emotionally believe."*  
 > — Jonathan Haidt, *The Righteous Mind*<br><br>
 
 ---
 <br>
-### We live in a time of [**epistemic anxiety**](https://link.springer.com/article/10.1007/s11229-022-03788-7#Sec4){:target="_blank"}
+### Communication divides are widening
 
-LLMs generate fluent text but hide their logic. Social media incentivizes division. News cycles flatten complexity. The middle ground is vanishing.
+Different communities interpret the same facts completely differently. Traditional communication strategies can’t predict these divergences—or repair them when they appear.
 
-## Epistemica shows you why communities believe what they believe
+**Epistemica makes interpretation measurable**  
+We simulate how different groups interpret information based on epistemic traits, interpretive schemas, and worldview frameworks. Our analytics help you **compare interpretations**, **forecast drift**, and **detect breakdowns** before they cause backlash or confusion.
 
-Our platform simulates how different communities interpret the same event, claim, or narrative, making belief formation visible, structured, and comparable.
-
-We don’t just say what a group might believe. We show why: their values, interpretive patterns, source trust, and epistemic assumptions.<br><br>
+We don't just tell you what people believe.  
+We show how they got there.<br><br>
 
 ---
 <br>
-## Epistemica is building something different:
+## 🔍 Interpretation Analytics Platform
 
-### Structured belief agents for transparent reasoning
+Epistemica transforms communication intelligence with structured, explainable interpretation modeling:
 
-We model:
+- **Comparative Analysis** — See how different communities interpret the same message  
+- **Narrative Forecasting** — Predict belief drift and polarization  
+- **Divergence Detection** — Spot exactly where meaning fractures  
+- **Bridge Identification** — Reveal where shared understanding can be rebuilt  
+- **Black Swan & Fragility Alerts** — Flag unstable interpretations before they spiral
 
-- Trait Embeddings — e.g. skepticism, emotion, institutional trust
+Think of it as **Perplexity for reasoning**—but instead of just citing sources, we show the logic behind beliefs.<br><br>
 
- - Schema Embeddings — narrative lens (justice-oriented, outcome-focused, etc.)
-
-- Framework Embeddings — epistemic rules (critical theory, pragmatism, rationalism, etc.)
-
-- Ontology Embeddings — how the community categorizes the world<br><br>
-
-### Belief Engine Flow
-
-Incoming Information
-→ Information Embedding
-→ + Traits, Schema, Framework, Ontology
-→ Composite Belief Vector
-→ Reasoning Trace + Justification
-→ Visual Output (Drift, Divergence, Forecast)
-
-This isn’t just a new app. It’s a new epistemic layer.
+---
+<br>
+## 🧠 How It Works
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="{{ '/assets/images/sources.png' | relative_url }}" alt="Epistemica Interpretation" width="440">
-  <img src="{{ '/assets/images/belief_text.png' | relative_url }}" alt="Epistemica Interpretation" width="440">
+  <img src="{{ '/assets/images/sources.png' | relative_url }}" alt="Epistemica Source Input" width="440">
+  <img src="{{ '/assets/images/belief_text.png' | relative_url }}" alt="Epistemica Interpretation Output" width="440">
 </div>
 
-We use **neural embeddings** to model how belief systems form and evolve,  
-allowing us to measure conceptual distance and predict belief trajectories in ways never before possible.
+We combine vector embeddings with structured reasoning frameworks:
 
-> This isn't just a new app.  
-> It's a new layer.<br><br><br><br>
+- **Information Embedding** — Semantic content  
+- **Trait Embedding** — Cognitive and emotional tendencies  
+- **Schema Embedding** — Interpretive lens (justice-oriented, outcome-focused, etc.)  
+- **Framework Embedding** — Epistemic values (critical theory, pragmatism, etc.)  
+- **Ontology Embedding** — Conceptual worldview  
+
+These produce a composite **Belief Vector**, paired with transparent **reasoning traces** and visual outputs like belief drift maps, narrative conflict charts, and consensus bridges.<br><br>
+
+---
+<br>
+## 🔬 Analytics Pipeline
 
 <div class="mermaid">
 graph TD
-  A[Incoming Information]
-  A --> B[Information Embedding]
-  B --> C[Belief Engine]
+  A[Information Input]
+  A --> B[Multi-Space Embedding Analysis]
+  B --> C[Interpretation Analytics Engine]
 
-  subgraph Belief Engine
-    C1[Trait Embedding: e.g. skepticism, emotion]
-    C2[Schema Embedding: interpretive lens]
-    C3[Framework Embedding: epistemic rules]
-    C4[Ontological Embedding: concept structure]
+  subgraph Interpretation Analytics Engine
+    C1[Meta-Epistemic Traits: skepticism, emotion, etc.]
+    C2[Interpretive Schema: narrative lens]
+    C3[Epistemic Framework: logic rules]
+    C4[Ontological Structure: concept org]
   end
 
   C --> C1
   C --> C2
   C --> C3
   C --> C4
-  C1 --> D[Vector Composition]
+  C1 --> D[Interpretation Pattern Recognition]
   C2 --> D
   C3 --> D
   C4 --> D
   D --> E[Belief Embedding Output]
-  E --> F[Reasoning Trace + Justification]
-  F --> G[Visual Output: e.g. drift graph, belief comparison]
+  E --> F[Reasoning Process Visualization]
+  F --> G[Strategic Messaging Recommendations]
 </div>
 <br><br>
 Compare interpretations. Forecast drift. Understand why people disagree.
 
-> Think of it as **Perplexity for reasoning** but instead of just showing sources, we show how beliefs are formed.
+> Think of it as **Perplexity for reasoning** — but instead of just showing sources, we show how beliefs are formed.
 
-[Try the Belief Simulation Demo →](https://epistemica.streamlit.app/){:target="_blank"}<br><br>
+[Try the Belief Simulation Demo →](https://epistemica.streamlit.app/)<br><br>
 
 ---
 <br>
-## 🚀 What this could become:
+## 🚀 What this could become
 
 - **A new form of media** — Show multiple belief interpretations side-by-side  
-- **A cognitive tool** — Understand your own belieft construction
+- **A cognitive tool** — Understand your own belief construction  
 - **A diagnostic engine** — Trace narrative drift, institutional fragility, or public bias  
 - **A belief interface for AI** — Fine-tune agents not by vibe, but by values, logic, and justification  
 - **An educational revolution** — Teach reasoning as a transparent, traceable, interactive system<br><br>
-
 
 ---
 <br>
 We don’t just want to simulate intelligence.  
 We want to **make belief itself interpretable**.
 
-[Explore Our Belief Simulation Engine](https://epistemica.streamlit.app/){:target="_blank"}<br><br>
+[Explore Our Belief Simulation Engine](https://epistemica.streamlit.app/)<br><br>
 
 ---
-<br>
+
 ### Our Technical Approach
 
-Epistemica combines **vector embeddings** with structured reasoning components to make belief dynamics computationally traceable.  
+Epistemica combines **vector embeddings** with structured reasoning components to make belief dynamics computationally traceable.
+
 By layering:
 
-- Semantic Embeddings (raw information)
-
-- Trait and Schema Modifiers (cognitive style, interpretive lens)
-
-- Framework and Ontology Layers (epistemic rules and world models)
+- **Semantic Embeddings** — Raw information content  
+- **Trait and Schema Modifiers** — Cognitive styles and interpretive lenses  
+- **Framework and Ontology Layers** — Epistemic rules and world models  
 
 ...we model belief formation with measurable structure and forecastable change.
 
-[Learn more about our methodology →](https://epistemica.streamlit.app/Overview)<br><br>
+[Learn more about our methodology →](https://epistemica.streamlit.app/Overview)
