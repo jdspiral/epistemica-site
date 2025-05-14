@@ -7,18 +7,19 @@ We built Epistemica because we're living through an epistemic crisis.
 
 Truth is no longer shared ground. People interpret the same information in radically different ways, and those divergences are accelerating. Policy teams, communicators, and institutions are flying blind, trying to reach audiences that live in separate interpretive worlds.
 
-**Epistemica is a belief simulation platform** that models how different communities interpret the same information—and how those interpretations evolve over time. We combine structured reasoning, epistemic trait modeling, and vector embeddings to make belief formation visible and measurable.
+**Epistemica is a belief simulation platform** that models how different communities interpret the same information—and how those interpretations evolve over time. We combine structured reasoning, epistemic trait modeling, and vector embeddings to make belief formation visible and measurable.<br><br>
 
 ---
-
+<br>
 ## Our Mission
 
 We don’t just want to predict reactions.  
+
 We want to **rebuild visibility into belief** — to show not just what people think, but _why_ they think it.  
-Our goal is to create a transparent foundation for constructive disagreement, narrative analysis, and institutional alignment.
+Our goal is to create a transparent foundation for constructive disagreement, narrative analysis, and institutional alignment.<br><br>
 
 ---
-
+<br>
 ## Interpretation Analytics Platform
 
 Epistemica transforms communication intelligence through structured, explainable interpretation modeling:
@@ -29,10 +30,10 @@ Epistemica transforms communication intelligence through structured, explainable
 - **Bridge Identification** — Reveal where shared understanding can be rebuilt  
 - **Belief Transformation Analysis** — Track how interpretations shift under different conditions  
 
-> Think of it as **Perplexity for reasoning** — but instead of just citing sources, we show the logic behind beliefs.
+> Think of it as **Perplexity for reasoning** — but instead of just citing sources, we show the logic behind beliefs.<br><br>
 
 ---
-
+<br>
 ## Analytics Components
 
 Our platform offers measurable insights through several key analytics components:
@@ -42,10 +43,10 @@ Our platform offers measurable insights through several key analytics components
 - **Divergence Analytics** — Identifies where and why interpretation gaps form  
 - **Bridge Detection** — Surfaces language and framing that resonate across worldviews  
 - **Interpretation Map** — Visualizes the communication landscape across perspectives  
-- **Communication Evolution Forecast** — Simulates belief drift across scenarios  
+- **Communication Evolution Forecast** — Simulates belief drift across scenarios<br><br>
 
 ---
-
+<br>
 ## How It Works
 
 We combine vector embeddings with structured reasoning frameworks:
@@ -56,10 +57,10 @@ We combine vector embeddings with structured reasoning frameworks:
 - **Framework Embedding** — Epistemic rules (critical theory, pragmatism, etc.)  
 - **Ontology Embedding** — Conceptual worldview  
 
-These components produce a composite **Belief Vector**, paired with transparent reasoning traces and visual outputs such as drift graphs, narrative conflict charts, and consensus bridges.
+These components produce a composite **Belief Vector**, paired with transparent reasoning traces and visual outputs such as drift graphs, narrative conflict charts, and consensus bridges.<br><br>
 
 ---
-
+<br>
 ## Measurement Metrics
 
 We quantify interpretation through the following metrics:
@@ -69,10 +70,10 @@ We quantify interpretation through the following metrics:
 - **Inter-Community Distance** — Potential for misunderstanding between groups  
 - **Message Stability** — How consistent interpretations remain under change  
 - **Convergence/Divergence** — Are communities growing closer or further apart?  
-- **Interpretation Variance** — How much a community’s understanding shifts across contexts  
+- **Interpretation Variance** — How much a community’s understanding shifts across contexts<br><br> 
 
 ---
-
+<br>
 ## Who We Are
 
 Epistemica was founded by **Joshua Hathcock**, a software engineer, writer, and public philosopher. His work explores the intersection of epistemology, technology, and culture.
@@ -80,10 +81,10 @@ Epistemica was founded by **Joshua Hathcock**, a software engineer, writer, and 
 > "I’ve always felt a disconnect between how events are presented and what’s actually true.  
 > Philosophy helped me see the assumptions beneath the surface — but it wasn’t until I started building with AI that I realized I could make those assumptions visible, modelable, and open to scrutiny."
 
-Josh also writes [**The Performance Age**](https://theperformanceage.com/), a public philosophy project about how algorithmic logic and media incentives are reshaping how we think, argue, and perform.
+Josh also writes [**The Performance Age**](https://theperformanceage.com/), a public philosophy project about how algorithmic logic and media incentives are reshaping how we think, argue, and perform.<br><br>
 
 ---
-
+<br>
 ## What’s Next
 
 We’re currently in alpha. The simulation demo is live, and we’re actively gathering feedback from researchers, analysts, and strategists.
@@ -96,4 +97,4 @@ If you care about:
 
 We’d love to talk.
 
-**🔗 [Try the demo](https://epistemica.streamlit.app/)**
+**🔗 [Try the demo](https://epistemica.streamlit.app/)**<br><br>
