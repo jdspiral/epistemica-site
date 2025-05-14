@@ -35,7 +35,10 @@ Structured belief agents that interpret the world through **transparent, testabl
 Not just *“What would a Justice-Oriented Community say?”*—but *why* they'd say it,  
 how they weight sources, and what values shape their conclusions.
 
-![Epistemica Interpretation]({{ '/assets/images/sources.png' | relative_url }}){: width="500" }
+<div style="display: flex; align-items: flex-start;">
+  <img src="{{ '/assets/images/sources.png' | relative_url }}" alt="Epistemica Interpretation" width="440">
+  <img src="{{ '/assets/images/belief_text.png' | relative_url }}" alt="Epistemica Interpretation" width="440">
+</div>
 
 We use **neural embeddings** to model how belief systems form and evolve,  
 allowing us to measure conceptual distance and predict belief trajectories in ways never before possible.
