@@ -1631,7 +1631,7 @@ ul, ol { padding-left: 1.5rem; /* restores indentation */ list-style: disc; /* s
 
 li { margin-bottom: 0.5rem; /* optional: vertical spacing */ }
 
-p { font-size: 18px; }
+p { font-size: 16px; }
 
 a:link { text-decoration: underline; }
 
