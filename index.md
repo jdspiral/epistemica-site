@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Epistemica
+title: "Epistemica: Interpretive Analytics for a Divided World"
 ---
 
 ![Epistemica Hero]({{ '/assets/images/epistemica-hero.jpg' | relative_url }}){: width="900" }
 
 [Try the Belief Simulation Demo →](https://epistemica.streamlit.app/){:target="_blank"}
 
-**Interpretive Analytics for a Divided World**  
-Making belief formation transparent, measurable, and actionable.<br><br>
+<!-- **Interpretive Analytics for a Divided World**  
+Making belief formation transparent, measurable, and actionable.<br><br> -->
 
 ---
 <br>
