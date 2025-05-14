@@ -18,9 +18,13 @@ layout: page
 
 No one agrees on what's true, why it's true, or who to trust.
 
-LLMs can generate fluent answers, but they hide the reasoning underneath.  
-Social media polarizes. Traditional media generalizes.  
-The space in between is collapsing.<br><br>
+LLMs generate fluent text but hide their reasoning. Social media polarizes. Traditional media oversimplifies. The middle ground is disappearing.
+
+## Epistemica shows you why communities believe what they believe
+
+Our platform models how different communities interpret the same information through transparent, testable reasoning.
+
+Not just "What would a community think?"—but *why* they'd think it, how they evaluate sources, and what values shape their conclusions.<br><br>
 
 ---
 <br>
@@ -28,7 +32,7 @@ The space in between is collapsing.<br><br>
 
 Structured belief agents that interpret the world through **transparent, testable reasoning**.
 
-Not just *“What would a Rationalist say?”*—but *why* they'd say it,  
+Not just *“What would a Justice-Oriented Community say?”*—but *why* they'd say it,  
 how they weight sources, and what values shape their conclusions.
 
 ![Epistemica Interpretation]({{ '/assets/images/sources.png' | relative_url }}){: width="500" }
@@ -67,7 +71,7 @@ graph TD
 <br><br>
 > Think of it as **Perplexity for reasoning**—but instead of just showing sources, we show how beliefs are formed.
 
-[👉 Try the Belief Simulation Demo →](https://epistemica.streamlit.app/){:target="_blank"}<br><br>
+[Try the Belief Simulation Demo →](https://epistemica.streamlit.app/){:target="_blank"}<br><br>
 
 ---
 <br>
