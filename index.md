@@ -127,4 +127,4 @@ By layering:
 
 ...we model belief formation with measurable structure and forecastable change.
 
-[Learn more about our methodology →](https://epistemica.streamlit.app/Overview)
+[Learn more about our methodology →](https://epistemica.streamlit.app/Interpretation_Analytics_Overview)
