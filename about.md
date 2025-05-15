@@ -3,6 +3,8 @@ title: "About Epistemica"
 layout: page
 ---
 
+Contact: [josh@epistemica.ai](mailto:josh@epistemica.ai)
+
 We built Epistemica because we're living through an epistemic crisis.
 
 Truth is no longer shared ground. People interpret the same information in radically different ways, and those divergences are accelerating. Policy teams, communicators, and institutions are flying blind, trying to reach audiences that live in separate interpretive worlds.
