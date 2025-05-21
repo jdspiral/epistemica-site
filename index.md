@@ -7,6 +7,10 @@ title: "Epistemica: Interpretive Analytics for a Divided World"
 
 [Try the Belief Simulation Demo →](https://epistemica.streamlit.app/){:target="_blank"}
 
+[Read the White Paper →]({{ '/assets/Epistemica_White_Paper.pdf' | relative_url }}){:target="_blank"}
+
+
+
 <!-- **Interpretive Analytics for a Divided World**  
 Making belief formation transparent, measurable, and actionable.<br><br> -->
 
