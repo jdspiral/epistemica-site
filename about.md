@@ -78,7 +78,7 @@ We quantify interpretation through the following metrics:
 <br>
 ## Who We Are
 
-Epistemica was founded by **Joshua Hathcock**, a software engineer, writer, and public philosopher. His work explores the intersection of epistemology, technology, and culture.
+Epistemica was founded by **Joshua Hathcock**, a software engineer, writer, and lover of cognitive science and philosophy. His work explores the intersection of epistemology, technology, and culture.
 
 > "I’ve always felt a disconnect between how events are presented and what’s actually true.  
 > Philosophy helped me see the assumptions beneath the surface — but it wasn’t until I started building with AI that I realized I could make those assumptions visible, modelable, and open to scrutiny."
