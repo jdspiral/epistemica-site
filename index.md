@@ -9,11 +9,6 @@ title: "Epistemica: Interpretive Analytics for a Divided World"
 
 [Read the White Paper →]({{ '/assets/Epistemica_White_Paper.pdf' | relative_url }}){:target="_blank"}
 
-
-
-<!-- **Interpretive Analytics for a Divided World**  
-Making belief formation transparent, measurable, and actionable.<br><br> -->
-
 ---
 <br>
 > *"We are terrible at criticizing our own belief structures because we don’t reason to find truth — we reason to defend what we already emotionally believe."*  
@@ -29,13 +24,12 @@ Different communities interpret the same facts completely differently. Tradition
 We simulate how different groups interpret information based on epistemic traits, interpretive schemas, and worldview frameworks. Our analytics help you **compare interpretations**, **forecast drift**, and **detect breakdowns** before they cause backlash or confusion.
 
 We don't just tell you what people believe.  
-We show how they got there.<br><br>
+We show how they got there.<br>
+Research shows that when people see the reasoning behind a belief, they’re more likely to reflect, re-evaluate, and understand others.  
 
-> **Research shows** that when people see the reasoning behind a belief, they’re more likely to reflect, re-evaluate, and understand others.  
+*Epistemica makes that reasoning visible.*  
 
-> *Epistemica makes that reasoning visible.*  
-
-**Transparent beliefs lead to better thinking, and fewer breakdowns.**
+Transparent beliefs lead to better thinking, and fewer breakdowns.
 
 ---
 <br>
