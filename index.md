@@ -31,6 +31,12 @@ We simulate how different groups interpret information based on epistemic traits
 We don't just tell you what people believe.  
 We show how they got there.<br><br>
 
+> **Research shows** that when people see the reasoning behind a belief, they’re more likely to reflect, re-evaluate, and understand others.  
+
+> *Epistemica makes that reasoning visible.*  
+
+**Transparent beliefs lead to better thinking, and fewer breakdowns.**
+
 ---
 <br>
 ## 🔍 Interpretation Analytics Platform
@@ -45,6 +51,22 @@ Epistemica transforms communication intelligence with structured, explainable in
 
 Think of it as **Perplexity for reasoning**—but instead of just citing sources, we show the logic behind beliefs.<br><br>
 
+---
+<br>
+## 🧭 Why This Matters
+
+Most analytics platforms show *what* people believe. Epistemica shows *why*.  
+That difference is critical.
+
+Studies in psychology and deliberative theory show that when people are exposed to visible reasoning, not just conclusions, they:
+- Think more critically  
+- Trust more deeply  
+- Disagree more constructively  
+
+**Interpretation transparency isn’t just a UX feature.**  
+It’s the foundation for better communication, better AI alignment, and better public understanding.
+
+<br>
 ---
 <br>
 ## 🧠 How It Works
