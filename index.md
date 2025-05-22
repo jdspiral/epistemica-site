@@ -29,7 +29,7 @@ Research shows that when people see the reasoning behind a belief, they’re mor
 
 *Epistemica makes that reasoning visible.*  
 
-Transparent beliefs lead to better thinking, and fewer breakdowns.
+Transparent beliefs lead to better thinking, and fewer breakdowns.<br><br>
 
 ---
 <br>
@@ -58,9 +58,23 @@ Studies in psychology and deliberative theory show that when people are exposed 
 - Disagree more constructively  
 
 **Interpretation transparency isn’t just a UX feature.**  
-It’s the foundation for better communication, better AI alignment, and better public understanding.
+It’s the foundation for better communication, better AI alignment, and better public understanding.<br><br>
 
+---
 <br>
+## 🧨 The Problem With Current Approaches
+
+Most polarization tools focus on *changing how people feel* about one another. But research shows that reducing emotional dislike ("affective polarization") doesn't reliably change:
+- Support for political violence
+- Belief in antidemocratic candidates
+- Voting behavior
+
+That’s because people don’t act on feelings alone—they act on how they **interpret** the world.
+
+Epistemica focuses on **interpretive polarization**—the way different groups *process the same information* using different belief structures.
+
+We model these structures explicitly—so you can see where interpretations diverge, why, and how to build bridges without moralizing or guesswork.<br><br>
+
 ---
 <br>
 ## 🧠 How It Works
