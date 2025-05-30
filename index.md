@@ -3,7 +3,7 @@ layout: page
 title: "Epistemica: Interpretive Analytics for a Divided World"
 ---
 
-<div style="position: relative; padding-bottom: 99.81515711645102%; height: 0;"><iframe src="https://www.loom.com/embed/5ebd9401b8504026b14374403c6955af?sid=aba65b2c-621e-4845-b677-3d0e3b553745" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 99.81515711645102%; height: 0;"><iframe src="https://www.loom.com/share/3d299db2bf584aadae644a5bdd016e02?sid=2073785d-e0d3-4786-b0ed-dd5c1ecc8dc5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <br>
 
 [Try the Belief Simulation Demo →](https://epistemica.streamlit.app/){:target="_blank"}
